@@ -80,5 +80,8 @@ Figma：https://www.figma.com/design/QnDeRMhH1xPCbQVlR3v1ks/Anaba%E7%94%BB%E9%9D
 - [✔️] Googleマップ上にピンで表示されたスポット閲覧機能（未ログインでも閲覧可能）  
 　  
 ### 各画面の作り込み  
-画面遷移だけでなく、必要なボタンやフォームが確認できるくらい作り米ているか？  
+画面遷移だけでなく、必要なボタンやフォームが確認できるくらい作りこめているか？  
 - [✔️] 作り込みはある程度完了している（Figmaを見て画面の作成ができる状態にある）  
+　  
+### ER図  
+draw.io：https://drive.google.com/file/d/1COQNKC9mRp6apwWSm0Mf6W9a0WITyTIS/view?usp=sharing  
